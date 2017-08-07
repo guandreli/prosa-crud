@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  descricao: MyText
+  valor: 1.5
+  inicio: 2017-08-06
+  fim: 
+  cidade: MyString
+
+two:
+  nome: MyString
+  descricao: MyText
+  valor: 1.5
+  inicio: 2017-08-06
+  fim: 
+  cidade: MyString
